@@ -1,4 +1,4 @@
-# Oyelade Oke | Data Analyst
+
 
 Power BI | SQL | R | Excel | Power Query
 
