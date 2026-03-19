@@ -22,6 +22,10 @@ evidence-based decision making.
 Power BI portfolio tracker — AUM, NAV per unit, Fund ROI, and member 
 P&L across Equities, MMFs, and Fixed Income asset classes.
 
+### [Massachusetts General Hospital Dashboard](./Hospital_Patient_Records)
+A 3-page Power BI dashboard analysing hospital performance across 
+executive KPIs, financial overview, and operational efficiency metrics.
+
 ---
 
 [LinkedIn](www.linkedin.com/in/oyelade-oke) | [Email](mailto:oyecima@@gmail.com)
