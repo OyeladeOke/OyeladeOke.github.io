@@ -5,10 +5,9 @@ and developing automated dashboards in Power BI. Proven track record of improvin
 
 ## Projects
 
-### [BVL Investment Portfolio Dashboard](./BVL_Investment_Dashboard)
-Power BI portfolio tracker — AUM, NAV per unit, Fund ROI, and Members P&L 
-across Equities, MMFs, and Fixed Income asset classes.
-
+### [BVL Investment Portfolio Dashboard](./BVL_Investment_Portfolio_Dashboard)
+Power BI portfolio tracker — AUM, NAV per unit, Fund ROI, and member 
+P&L across Equities, MMFs, and Fixed Income asset classes.
 ---
 
 [LinkedIn](www.linkedin.com/in/oyelade-oke) | [Email](mailto:oyecima@gmail.com)
