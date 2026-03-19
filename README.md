@@ -26,6 +26,10 @@ P&L across Equities, MMFs, and Fixed Income asset classes.
 A 3-page Power BI dashboard analysing hospital performance across 
 executive KPIs, financial overview, and operational efficiency metrics.
 
+### [Ethnic Inequalities in Prostate Cancer Mortality — UK](./Prostate_Cancer_UK)
+Statistical analysis in R exploring disproportionate prostate cancer 
+mortality rates across ethnic groups in the UK, using ONS data.
+
 ---
 
 [LinkedIn](www.linkedin.com/in/oyelade-oke) | [Email](mailto:oyecima@@gmail.com)
