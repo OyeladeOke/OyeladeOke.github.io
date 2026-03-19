@@ -8,7 +8,7 @@ nav_exclude: true
 
 ## Massachusetts General Hospital — Performance Dashboard
 
-**Tools used:** Power BI | Power Query | DAX | Data Modelling
+**Tools used:** Power BI | Power Query | DAX 
 
 **Description:**  
 A 3-page Power BI dashboard developed as part of the Maven Analytics 
