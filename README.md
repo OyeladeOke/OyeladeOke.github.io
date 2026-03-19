@@ -1,4 +1,4 @@
-![Oyelade Oke](./profile.jpg)
+<img src="./profile.jpg" alt="Oyelade Oke" width="150">
 
 ### Oyelade Oke | Data Analyst
 
