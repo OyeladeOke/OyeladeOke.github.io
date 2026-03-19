@@ -2,6 +2,7 @@
 layout: default
 title: BVL Investment Portfolio Dashboard
 ---
+![BVL Dashboard Preview](./BVL_Dashboard_preview.jpg)
 
 ## Bond Vision Limited Investment Portfolio Dashboard
 
