@@ -4,7 +4,7 @@ title: Prostate Cancer Mortality — UK Ethnic Inequalities
 nav_exclude: true
 ---
 
-<img src="./combine_chart.png" alt="Prostate Cancer Analysis" width="800">
+<img src="./combine_chart.jpg" alt="Prostate Cancer Analysis" width="800">
 
 ## Exploring Ethnic Inequalities in Prostate Cancer Mortality in the UK
 
