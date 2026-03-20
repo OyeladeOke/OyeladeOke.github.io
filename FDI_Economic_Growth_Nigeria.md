@@ -4,7 +4,7 @@ title: FDI and Economic Growth — Nigeria Time Series Analysis
 nav_exclude: true
 ---
 
-<img src="./fevd_plot_rev1.jpg" alt="FEVD Plot" width="700">
+<img src="./fevd_plot_rev1.jpg" alt="FEVD Plot" width="650">
 
 ## Does a Causal Relationship Exist Between FDI and Economic Growth?
 ### A Time Series Analysis of Nigeria's Economy (1991–2021)
