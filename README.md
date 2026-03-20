@@ -38,6 +38,11 @@ across geography and age demographics, using Maven Analytics - bank customer chu
 MSc research applying VAR modelling and time series analysis to assess 
 causality between FDI and GDP growth in Nigeria over 30 years.
 
+### [Evaluating the Gender Pay Gap — UK Company](./Gender_Pay_Gap_Analysis)
+Statistical analysis in R identifying a significant gender pay gap, 
+with employment tenure, contract type, qualification and job position 
+as key drivers.
+
 ---
 
 [LinkedIn]www.linkedin.com/in/oyelade-oke | [Email]oyecima@@gmail.com
