@@ -23,6 +23,6 @@ stability and sectoral targeting may carry more weight than FDI volume alone.
 Findings are presented in an executive-style report for policymakers and 
 analysts.
 
-[View Executive Summary (PDF)](./Executive Summary Report.pdf)
+[View Executive Summary (PDF)](./Executive_Summary_Report.pdf)
 
 [View R Script](./RScript_Dissertation_s5506989.R)
