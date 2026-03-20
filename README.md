@@ -36,4 +36,4 @@ across geography and age demographics, using Maven Analytics - bank customer chu
 
 ---
 
-[LinkedIn]www.linkedin.com/in/oyelade-oke | [Email]mailto:oyecima@@gmail.com
+[LinkedIn]www.linkedin.com/in/oyelade-oke | [Email]oyecima@@gmail.com
