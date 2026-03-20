@@ -30,6 +30,10 @@ executive KPIs, financial overview, and operational efficiency metrics.
 Statistical analysis in R exploring disproportionate prostate cancer 
 mortality rates across ethnic groups in the UK, using ONS data.
 
+### [Bank Customer Churn Analysis](./Customer_Churn_Analysis)
+Statistical analysis in R identifying key drivers of customer churn 
+across geography and age demographics, using Maven Analytics - bank customer churn data.
+
 ---
 
 [LinkedIn](www.linkedin.com/in/oyelade-oke) | [Email](mailto:oyecima@@gmail.com)
