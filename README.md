@@ -34,6 +34,10 @@ mortality rates across ethnic groups in the UK, using ONS data.
 Statistical analysis in R identifying key drivers of customer churn 
 across geography and age demographics, using Maven Analytics - bank customer churn data.
 
+### [FDI and Economic Growth — Nigeria (1991–2021)](./FDI_Economic_Growth_Nigeria)
+MSc research applying VAR modelling and time series analysis to assess 
+causality between FDI and GDP growth in Nigeria over 30 years.
+
 ---
 
 [LinkedIn]www.linkedin.com/in/oyelade-oke | [Email]oyecima@@gmail.com
