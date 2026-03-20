@@ -12,7 +12,7 @@ evidence-based decision making.
 
 ---
 
-Power BI | SQL | R | Excel | Power Query
+Excel | Power Query | Power BI | Power Point | SQL | R 
 
 ---
 
