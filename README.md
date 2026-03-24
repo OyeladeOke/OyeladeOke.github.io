@@ -48,4 +48,4 @@ as key drivers.
 
 ---
 
-LinkedIn: https://www.linkedin.com/in/oyelade-oke/details/featured/ | Email: oyecima@gmail.com
+Email: oyecima@gmail.com | +44 7780 098201
