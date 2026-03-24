@@ -48,4 +48,4 @@ as key drivers.
 
 ---
 
-LinkedIn: LinkedIn | Email: oyecima@gmail.com
+LinkedIn: https://www.linkedin.com/in/oyelade-oke/details/featured/ | Email: oyecima@gmail.com
