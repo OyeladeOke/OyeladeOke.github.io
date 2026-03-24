@@ -12,7 +12,7 @@ evidence-based decision making.
 
 ---
 
-### Tools
+### Analytical Tools
 
 Excel | Power Query | Power BI | Power Point | SQL | R 
 
