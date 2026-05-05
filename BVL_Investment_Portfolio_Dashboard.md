@@ -21,12 +21,12 @@ Designed and build a complete data model and reporting layer capable of tracking
 **What I Built**
 I architected a nine-table Power BI data model covering the full investment lifecycle:
 
-**Membership & Subscription tables** — members personal information and unit subscription allocation tracking  
-**Investment & Transaction tables** — instrument-level purchase and valuation records  
-**Cash Flow table** — fund liquidity and movement tracking  
-**Price History table** — a dynamic fact table replacing an initial static NAV table, enabling time-intelligent performance calculations across all instruments  
-**NAV table** — net asset value tracking and performance  
-**Investment Cycle & MMF Yield tables** — enabling insights into investment returns and money market return calculations  
+- **Membership & Subscription tables** — members personal information and unit subscription allocation tracking  
+- **Investment & Transaction tables** — instrument-level purchase and valuation records  
+- **Cash Flow table** — fund liquidity and movement tracking  
+- **Price History table** — a dynamic fact table replacing an initial static NAV table, enabling time-intelligent performance calculations across all instruments  
+- **NAV table** — net asset value tracking and performance  
+- **Investment Cycle & MMF Yield tables** — enabling insights into investment returns and money market return calculations  
 
 Key DAX measures built includes AUM, NAV per unit, Fund ROI, member-level return attribution, gross dividend income, and a two-tranche withholding tax (WHT) framework for dividend treatment.
 
